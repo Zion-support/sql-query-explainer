@@ -1,11 +1,18 @@
-# 🔗 Zion AI App Network
+# 🌐 Zion AI App Network
 
-Part of the **Zion AI App Network** — 678+ interlinked AI apps, tools and playbooks by [Zion Tech Group](https://ziontechgroup.com).
+This app is part of the **Zion AI App Network** — 850+ interlinked AI apps by Zion Tech Group.
 
-- 🏠 Home: https://ziontechgroup.com
-- 🗂️ Directory: https://ziontechgroup.com/zion-app-network/
-- 🐙 Hub: https://github.com/Zion-support/zion-app-network
-- 🌐 Live app: https://ziontechgroup.com/sql-query-explainer/
-- 🔗 Related: [Regex Builder](https://ziontechgroup.com/regex-builder/) · [Mock API Generator](https://ziontechgroup.com/mock-api-generator/) · [Discovery](https://ziontechgroup.com/discovery/)
+## 🔗 Network links
+- Network hub: https://ziontechgroup.com/zion-app-network/
+- Latest updates: https://github.com/Zion-support/zion-app-network/blob/main/APP_NETWORK_LATEST.md
+- Index: https://github.com/Zion-support/zion-app-network/blob/main/APPS_INDEX-BATCHES-76-91.md
+- **Free Discovery (2 min, always free):** https://ziontechgroup.com/discovery/
 
-© 2026 Zion Tech Group.
+## 🧑‍💻 Batch 91 — Developer Productivity & Operations AI
+- SQL Query Explainer (this repo)
+- [Technician Scheduler AI](https://github.com/Zion-support/technician-scheduler-ai) — https://ziontechgroup.com/technician-scheduler-ai/
+- [AI Code Assistant](https://github.com/Zion-support/zion-ai-code-assistant) — https://ziontechgroup.com/zion-ai-code-assistant/
+- [Agent Observability](https://github.com/Zion-support/zion-agent-observability) — https://ziontechgroup.com/zion-agent-observability/
+- Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch91-oct05.html
+
+Contact: commercial@ziontechgroup.com · https://ziontechgroup.com
